@@ -1,1 +1,1 @@
-print("Hello Cloud V8");
+prin("Hello Cloud V8");
